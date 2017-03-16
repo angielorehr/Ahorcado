@@ -11,26 +11,12 @@ package ahorcado;
  */
 public class Ahorcado {
     
-    char letras;
-    int vidas=8;
-    
+    char letras;  
     char ingresarLetras(){
-        
-        return 0;
-        
+        return 0; 
     }
-    void verificarLetras(){
-
-   
-}
     
-    
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
-    
+}  
 }
