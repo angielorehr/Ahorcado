@@ -34,7 +34,7 @@ public class Tablero extends javax.swing.JFrame {
     int Verificar(char letra){
         int a=0;
         
-        if((int) letra>97){
+        if((int) letra>=97){
             letra-=32;
         }
         
